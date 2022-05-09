@@ -8,7 +8,7 @@
   <li>Problem solving ability</li> 
   <li>Ready to take on new challenges</li> 
 </ul>
-<p><b>Here are what I am working in my every day life:</b></p>
+<p><b>Here are what I am working on in my everyday life:</b></p>
 <p> 
   <img src="https://icongr.am/devicon/react-original.svg?colored=true" alt="React"  />
     <img src="https://icongr.am/devicon/javascript-original.svg?colored=true" alt="Javascript"  />
