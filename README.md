@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><b>I am a Front-end developer of enterprise web applications using Reactjs and Typescript.</b></p>
+<p><b>I am a Full-stack developer</b></p>
 <ul>
   <li>Strong understanding of programming principles</li> 
   <li>Enthusiastic about new technologies and eager to learn</li> 
